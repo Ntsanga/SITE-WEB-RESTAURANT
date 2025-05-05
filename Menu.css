@@ -1,0 +1,162 @@
+html,
+body{
+   height:100Px ;  
+}
+body{
+  background-color:gainsboro ;
+}
+.Menu3{
+   text-decoration: 3PX red underline;
+   
+ }
+ .Nav{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  
+ }
+ .Nav1,a {
+  color: black;
+  text-decoration: none;
+ }
+ .Nav2{
+  text-decoration:red underline;
+ }
+ .Menu{
+    text-align: center;
+    background-color: aliceblue;
+    margin-left:80px;
+    margin-right:80Px ;
+  
+ }
+ .commande{
+   background-color:red ; 
+   margin-top:50PX ;
+   border:70px red solid ;
+   text-align: center;
+ }
+ .commande1{
+    color:white ;
+    font-size: 30px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+.commande2{ 
+   margin-top:10PX ; 
+   border:25PX black solid ;
+  background-color: black; 
+  color:white ;
+  width:200PX ;
+  margin-left: 500PX;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size:20PX ;
+} 
+.h{
+  margin-left:600px ;
+  
+  
+}
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+   'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   font-weight: bold; 
+}
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+  font-size: 15PX;
+}
+    
+.CONTACT{
+    text-align: center;
+    margin-top: 70px;
+}
+.cont1{
+  font-size:25px ;
+  font-family:sans-serif ;
+}
+.cont2{
+  font-size:20px ;
+  font-family:sans-serif ;
+}
+h2{
+  text-decoration : 3px red underline solid ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.icon{
+  display: flex;
+  background-color: black;
+  margin-top:20px ;
+  height:50px ;
+  color: white;
+  justify-content: right;
+  padding-top: 40px;
+  gap:40px ;
+  padding-right: 30px ;
+  
+}
+.h{
+  margin-left:80px ;
+  margin-top: 10px;
+}
+span{
+  color:red ;
+}
+.entre1,
+.plat1,
+.desserts1,
+.boissons1{  
+  margin-top:25px ;
+  margin-bottom: 25px;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration:red underline solid  ;
+  padding-top:50px ;
+}
+.entre2,
+.entre4,
+.entre6 {
+font-weight: bold;
+margin-top:30px ;
+margin-bottom:30Px ;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.plat2,
+.plat4,
+.plat6 {
+font-weight: bold;
+margin-top:30px ;
+margin-bottom:30Px ;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.dessert2,
+.boissons2,
+.boissons3,
+.boissons4 {
+font-weight: bold;
+margin-top:30px ;
+margin-bottom:30Px ;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size:14px ; 
+}
+.img{
+  background-color:aliceblue ;
+  padding-top:50pxz ;
+}
+.img1{
+  background-color: gainsboro;
+}
+.boissons4{
+  padding-bottom:70px ;
+}
+
+
+

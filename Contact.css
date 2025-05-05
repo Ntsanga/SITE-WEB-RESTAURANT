@@ -1,0 +1,125 @@
+.Nav{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size:25px ;
+}
+.Nav1,a {
+    color: black;
+    text-decoration: none;
+}
+.Nav3{
+    text-decoration:red underline;
+}
+.commande{
+    background-color:red ; 
+    margin-top:50PX ;
+    border:70px red solid ;
+    text-align: center;
+}
+.commande1{
+    color:white ;
+    font-size: 29px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.commande2{
+    margin-top:10PX ; 
+    border:20PX black solid ;
+    background-color: black; 
+    color:white ;
+    width:200PX ;
+    margin-left: 500PX;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:15PX ;
+    
+} 
+.CONTACT{
+   display: flex; 
+   margin-left: 200px;
+   gap:130px ;
+   
+}
+.Yummy5{
+    margin-bottom:70px ;
+}
+
+.Yummy10{
+    margin-bottom:70Px ;
+}
+h1{
+  margin-top:30px ; 
+   font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family:100px ;
+  
+}
+.Yummy1,
+.Yummy6,
+.Yummy11 {
+    font-weight: bold;
+    font-size:25px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Speciale{
+   border-left:3px red solid ; 
+}
+.img{
+   
+   
+}
+.Yummy2,
+.Yummy3,
+.Yummy4,
+.Yummy5,
+.Yummy7,
+.Yummy8,
+.Yummy9,
+.Yummy10,
+.Yummy12,
+.Yummy13,
+.Yummy14,
+.Yummy15{
+    font-size:25px ;
+}
+.cont2{
+
+}
+
+.CO{
+    text-align: center;
+    margin-top: 70px;
+ }
+
+ .co1{
+    font-size:25px ;
+    font-family:sans-serif ;
+  }
+  .co2{
+    font-size:20px ;
+    font-family:sans-serif ;
+  }
+  h2{
+    text-decoration : 3px red underline solid ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:30px ;
+  }
+  .icon{
+    display: flex;
+    background-color: black;
+    margin-top:70px ;
+    height:80px ;
+    color: white;
+    justify-content: right;
+    padding-top: 40px;
+    gap:40px ;
+    padding-right: 30px ;
+    
+  }
+
+
+
